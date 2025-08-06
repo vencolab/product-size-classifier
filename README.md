@@ -1,4 +1,4 @@
-# 🛏️ Bed Size Classifier (Zero-Shot, No Training Required)
+#  Product Size Classifier
 
 This project automatically classifies bed images into size categories (e.g. Single, Double, King) using OpenAI's [CLIP](https://openai.com/research/clip) model — **no custom training, no labelling, no API calls** required. Just drop your product folders in and let the model do the magic.
 
