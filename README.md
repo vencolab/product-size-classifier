@@ -17,14 +17,14 @@ This project automatically classifies bed images into size categories (e.g. Sing
 ## Folder Structure
 
 Place your products inside the `PRODUCTS_DIR` folder like so:
-
+```
  Directory/
 ├── Product123/
 │ ├── image1.jpg
 │ └── image2.png
 ├── Product456/
 │ └── another_image.jpeg
-
+```
 
 ---
 
